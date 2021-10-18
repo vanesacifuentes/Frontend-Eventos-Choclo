@@ -1,0 +1,27 @@
+#informacion_compra{
+    display: block;
+    font-size: 16px;
+    background-color: #5db3ab;
+  
+  }
+
+  #compra_boleteria{
+    display: block;
+    font-size: 16px;
+    background-color: #5db3ab;
+  
+  }
+
+  #zona_boletas{
+    display: block;
+    font-size: 16px;
+    background-color: #5db3ab;
+  
+  }
+
+  #valor_total{
+    display: block;
+    font-size: 16px;
+    background-color: #a8adad;
+
+  }

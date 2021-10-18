@@ -1,0 +1,40 @@
+container-fluid{
+    padding: auto;
+}
+
+.navbar{
+    background-color: #239089;
+    font-family: 'RocknRoll One', sans-serif;
+    display: flex;
+    height: 100px;
+}
+
+.navbar-brand{
+    font-size: 25px;
+    color: #ffff;
+}
+
+.li{
+    color: #ffff;
+}
+
+.navbar-collapse {
+    font-size: 20px;
+    color: #ffff;
+}
+
+.navbar-nav {
+    color: #ffff;
+}
+
+.container-fluid{
+    padding: 8px;
+}
+
+.imagen{
+    width: 70px;
+    height: 0%;  
+}
+
+
+
