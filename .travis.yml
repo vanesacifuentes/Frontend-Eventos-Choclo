@@ -10,5 +10,5 @@ script:
 deploy:
   provider: heroku
   api_key: $APIKEYHEROKU
-  app: chatunivallevanesa
+  app: project-eventos-choclo
   

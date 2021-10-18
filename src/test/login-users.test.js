@@ -5,6 +5,7 @@ import { createSerializer } from 'enzyme-to-json'
 Enzyme.configure({ adapter: new Adapter() })
 //expect.addSnapshotSerializer(createSerializer({ mode: 'deep' }))
 
+
 import LoginUser from '../components/perfil_usuario/Login/login-user.js'
 import React from 'react';
 import { shallow } from 'enzyme'
