@@ -4,9 +4,14 @@ node_js:
 dist: trusty
 cache:
   directories:
+  $HOME/.cache/.npm
     - node_modules
 script:
   - npm run test
+  npm i -g npm
+  - nvm install v14.15.5
+  - npm install
+  - npm i -g jest-cli@26.6.3
 deploy:
   provider: heroku
   api_key: $APIKEYHEROKU

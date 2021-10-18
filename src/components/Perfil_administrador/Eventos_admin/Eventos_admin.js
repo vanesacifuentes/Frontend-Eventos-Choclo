@@ -116,6 +116,7 @@ function Eventos_admin() {
         <>
 
             <div className="container">
+                <Sidebar/>
 
                 <br></br>
 
